@@ -69,3 +69,14 @@ VALUES
   ('Hubert', 'Crackanthorpe', 'hcrackan@goodletters.com'),
   ('William', 'Carleton', 'wcarleton@literature.com'),
   ('Gerald', 'Griffin', 'ggriff@lit.net');
+
+
+INSERT INTO votes (voter_id, candidate_id)
+VALUES
+(1,1),
+(2,2),
+(3,3),
+(4,4),
+(5,5),
+(6,6),
+(7,7);
